@@ -8,7 +8,7 @@ Open "index.html" to see an overview of the Bootswatch theme Darkly elements cho
 To see more details, open the specific pages for these elements:
 - navbar.html
 - footer.html
-- form.html
+- forms.html
 - banners.html
 - cards.html
 - buttons.html
