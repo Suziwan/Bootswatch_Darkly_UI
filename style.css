@@ -1,3 +1,49 @@
-.content {
-	margin: 50px;
+.navbar {
+  padding: 10px;
+}
+
+.index_content {
+	margin-left: 20px;
+  margin-right: 20px;
+}
+
+h2 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-left: 20px;
+}
+
+.jumbotron {
+  background-image: url("https://images.unsplash.com/photo-1513735492246-483525079686?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80");
+  background-size: cover;
+  background-position: center;
+  padding-left: 30px; 
+  padding-right: 30px; 
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.container-fluid { 
+  padding-left: 30px; 
+  padding-right: 30px; 
+} 
+
+.my-form {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.my-box {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.card {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
