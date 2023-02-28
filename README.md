@@ -1,6 +1,6 @@
 # Bootswatch Darkly
-Project of Week 8 Day 2 of Fullstack THP: Add a UI theme
-Bootswatch theme Darkly added (file "bootstrap.min.css")
+Project of Week 8 Day 2 of Fullstack THP: Add a UI theme to Eventbrite-like project  
+Bootswatch theme Darkly added to boostrap (file "bootstrap.min.css").
 
 ## HTML files
 Open "index.html" to see an overview of the Bootswatch theme Darkly elements chosen.
